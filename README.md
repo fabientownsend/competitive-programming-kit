@@ -8,6 +8,13 @@ I start with JavaScript and them moved to Python as some problem JavaScript coul
 because of the numbers use. The first part is simple way to simlulate CodeForces API to get the data.
 
 ## Python example
+
+### Documentation
+
+You don't need to know the all language to use it in problem solving, here
+is my notes regarding [Python notes](./docs/python.md)
+
+How my code looks localy before submition
 ``` python
 #!/usr/local/bin/python3
 
