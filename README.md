@@ -106,4 +106,4 @@ if (pair.length === 0) {
 ```
 
 ## Workflow
-![Problem solving workflow]("./docs/excalidraw-202021310434%20(1).png")
+![Problem solving workflow](docs/excalidraw-202021310434%20(1).png)
