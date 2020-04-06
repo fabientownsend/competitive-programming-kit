@@ -104,3 +104,6 @@ if (pair.length === 0) {
   print(smallestPair);
 }
 ```
+
+## Workflow
+![Problem solving workflow]("./docs/excalidraw-202021310434%20(1).png")
